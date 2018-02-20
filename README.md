@@ -14,7 +14,7 @@ The results on the day were:
 | Apple ][ | 1977 | 38 |  |
 | BBC Micro | 1981 | 70 |  |
 | Windows 98 PC | 1998 | 1477 | Calculation in Excel spreadsheet |
-| Apple iPhone 6S | 2015 | Used Siri voice assistant |
+| Apple iPhone 6S | 2015 | 4 | Used Siri voice assistant |
 | MicroBit | 2017 | 6843 |  |
 
 The implementations here are to show what a standard PC can do. On my PC, (an Intel(R) Core(TM) i7-4930K CPU @ 3.40GHz, lots of RAM, running [Ubuntu 17.10](https://www.ubuntu.com/desktop/1710), I got these results:
