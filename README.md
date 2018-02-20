@@ -17,7 +17,7 @@ The results on the day were:
 | Apple iPhone 6S | 2015 | 4 | Used Siri voice assistant |
 | MicroBit | 2017 | 6843 |  |
 
-The implementations here are to show what a standard PC can do. On my PC, (an Intel(R) Core(TM) i7-4930K CPU @ 3.40GHz, lots of RAM, running [Ubuntu 17.10](https://www.ubuntu.com/desktop/1710), I got these results:
+The implementations here are to show what a standard PC can do. On my PC, (an Intel(R) Core(TM) i7-4930K CPU @ 3.40GHz, lots of RAM, running [Ubuntu 17.10](https://www.ubuntu.com/desktop/1710)), I got these results:
 
 | Program  | Terms |
 |--------- |-------|
