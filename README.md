@@ -1,6 +1,6 @@
 # tnmoc-grand-national-18
 
-The [TNMOC]() "[Grand National](http://www.tnmoc.org/news/news-releases/grand-digital-won-nine-year-old)" was held on 18 February 2018 and pitted a variety of historic computers against each other. The challenge was to calculate as many terms in the [Fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_number) in 15 seconds. 
+The [TNMOC](http://www.tnmoc.org/) "[Grand National](http://www.tnmoc.org/news/news-releases/grand-digital-won-nine-year-old)" was held on 18 February 2018 and pitted a variety of historic computers against each other. The challenge was to calculate as many terms in the [Fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_number) in 15 seconds. 
 
 Alternative implementations of the TNMOC "Grand National"
 
